@@ -26,3 +26,7 @@ FreelanceHours é uma aplicação desenvolvida em PHP, Laravel e Livewire, onde 
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - consulte o arquivo LICENSE para mais detalhes.
+
+## Agradecimentos
+
+Gostaria de agradecer à Rocketseat pelo curso rápido oferecido, que foi essencial para a realização deste projeto. A clareza e a qualidade do conteúdo foram fundamentais para concluir este trabalho com sucesso.
